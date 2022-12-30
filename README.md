@@ -19,13 +19,13 @@
 
 ## 📊 Github Stats
 
- <a href="https://github.com/shagunz"><img alt="Shagun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shagunz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/shagunZ"><img alt="Shagun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shagunZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <p align="left">
-    <a href="http://www.github.com/shagunz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunz&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+    <a href="http://www.github.com/shagunZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunZ&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
 
-  <a href="https://github.com/shagunz"><img alt="Shagun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+  <a href="https://github.com/shagunZ"><img alt="Shagun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunZ&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
 
 
 ## Let's Connect
