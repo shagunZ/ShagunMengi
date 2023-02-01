@@ -4,11 +4,11 @@
 # Hi I'm Shagun Mengi 👋
 
 
-* 🔭 Exploring tech to expand my skillset
-* 🌱 I’m currently learning Web Development and DSA
-* 🤝 I’m looking to collaborate on open source projects
-* 👩 Pronouns: she/her
-* ❤️ I love reading self-help books
+* 🔭 Exploring tech to expand my skillset.
+* 🌱 I’m currently learning Web Development and DSA.
+* 🤝 I’m looking to collaborate on open source projects.
+* 👩 Pronouns: she/her.
+* ❤️ I love reading self-help books.
 
 
 <h2 align="left">Languages and Tools:</h2>
