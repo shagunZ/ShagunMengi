@@ -11,7 +11,7 @@
 * ❤️ I love reading self-help books.
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools :</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,materialui,react,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,powershell,vscode,git,github)](https://skillicons.dev)
