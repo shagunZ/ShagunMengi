@@ -29,6 +29,8 @@
 
 
 ## Let's Connect...
-<a href = "https://www.linkedin.com/in/shagunmengi/"><img src="https://skillicons.dev/icons?i=linkedin" width="38px"/></a>
-<a href="https://www.hackerrank.com/shagunmengi003" ><img  src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="@shagunmengi003" width="38px" /></a>
-<a href="https://leetcode.com/shagunmengi003/" ><img  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="@shagunmengi003" width="60px" height="50" /></a>
+<a href = "https://www.linkedin.com/in/shagunmengi/"><img src="https://skillicons.dev/icons?i=linkedin" width="38px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/shagunmengi003" ><img  src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="@shagunmengi003" width="38px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/shagunmengi003/" ><img  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="@shagunmengi003" width="60px" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[<a href="mailto:shagunmengi003@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/email-1818373-1541480.png" width="30px" height="30px"></a>
+](mailto:shagunmengi003@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
