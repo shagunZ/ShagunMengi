@@ -8,7 +8,7 @@
 * 🌱 I’m currently learning Web Development and DSA.
 * 🤝 I’m looking to collaborate on open source projects.
 * 👩 Pronouns: she/her.
-* ❤️ I love reading self-help books.
+* ❤️ I love reading self-help books and I write my life.
 
 
 <h2 align="left">Languages and Tools :</h2>
